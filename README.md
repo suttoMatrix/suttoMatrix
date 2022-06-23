@@ -1,8 +1,8 @@
-<h2 align="center">👹</h2>
+<h2 align="left">Opa, sou o sutto e estou me desenvolvendo para ser um DevOps👹</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=suttoMatrix" height="150" alt="stats graph"  />
 </div>
 
