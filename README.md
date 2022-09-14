@@ -1,4 +1,4 @@
-<h2 align="left">Opa, sou o sutto e estou me desenvolvendo para ser um DevOps👹</h2>
+<h2 align="left">DevOps👹</h2>
 
 ###
 
